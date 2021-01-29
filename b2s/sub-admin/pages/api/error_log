@@ -1,0 +1,66 @@
+[02-Jun-2020 09:03:50 America/New_York] PHP Warning:  include(./../../config.php): failed to open stream: No such file or directory in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 3
+[02-Jun-2020 09:03:50 America/New_York] PHP Warning:  include(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 3
+[02-Jun-2020 09:03:50 America/New_York] PHP Notice:  Undefined variable: con in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 10
+[02-Jun-2020 09:03:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 10
+[02-Jun-2020 09:03:56 America/New_York] PHP Warning:  include(./../../config.php): failed to open stream: No such file or directory in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 3
+[02-Jun-2020 09:03:56 America/New_York] PHP Warning:  include(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 3
+[02-Jun-2020 09:03:56 America/New_York] PHP Notice:  Undefined variable: con in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 10
+[02-Jun-2020 09:03:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 10
+[02-Jun-2020 09:03:59 America/New_York] PHP Warning:  include(./../../config.php): failed to open stream: No such file or directory in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 3
+[02-Jun-2020 09:03:59 America/New_York] PHP Warning:  include(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 3
+[02-Jun-2020 09:03:59 America/New_York] PHP Notice:  Undefined variable: con in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 10
+[02-Jun-2020 09:03:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 10
+[02-Jun-2020 09:14:28 America/New_York] PHP Warning:  include(./../../config.php): failed to open stream: No such file or directory in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 3
+[02-Jun-2020 09:14:28 America/New_York] PHP Warning:  include(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 3
+[02-Jun-2020 09:14:28 America/New_York] PHP Notice:  Undefined variable: con in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 10
+[02-Jun-2020 09:14:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 10
+[02-Jun-2020 09:14:36 America/New_York] PHP Warning:  include(./../../config.php): failed to open stream: No such file or directory in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 3
+[02-Jun-2020 09:14:36 America/New_York] PHP Warning:  include(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 3
+[02-Jun-2020 09:14:36 America/New_York] PHP Notice:  Undefined variable: con in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 10
+[02-Jun-2020 09:14:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 10
+[02-Jun-2020 09:14:44 America/New_York] PHP Warning:  include(./../../config.php): failed to open stream: No such file or directory in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 3
+[02-Jun-2020 09:14:44 America/New_York] PHP Warning:  include(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 3
+[02-Jun-2020 09:14:44 America/New_York] PHP Notice:  Undefined variable: con in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 10
+[02-Jun-2020 09:14:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 10
+[02-Jun-2020 09:14:47 America/New_York] PHP Warning:  include(./../../config.php): failed to open stream: No such file or directory in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 3
+[02-Jun-2020 09:14:47 America/New_York] PHP Warning:  include(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 3
+[02-Jun-2020 09:14:47 America/New_York] PHP Notice:  Undefined variable: con in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 10
+[02-Jun-2020 09:14:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/kamavvve/public_html/b2s/admin/pages/api/adminlogin.php on line 10
+[15-Sep-2020 04:49:05 America/New_York] PHP Notice:  Undefined index: name in /home/kamavvve/public_html/b2s/admin/pages/api/edit.php on line 6
+[15-Sep-2020 04:49:05 America/New_York] PHP Notice:  Undefined variable: id in /home/kamavvve/public_html/b2s/admin/pages/api/edit.php on line 33
+[15-Sep-2020 04:52:44 America/New_York] PHP Notice:  Undefined index: name in /home/kamavvve/public_html/b2s/admin/pages/api/edit.php on line 6
+[15-Sep-2020 04:52:59 America/New_York] PHP Notice:  Undefined variable: id in /home/kamavvve/public_html/b2s/admin/pages/api/edit.php on line 33
+[15-Sep-2020 04:56:35 America/New_York] PHP Notice:  Undefined variable: id in /home/kamavvve/public_html/b2s/admin/pages/api/edit.php on line 33
+[15-Sep-2020 05:00:32 America/New_York] PHP Notice:  Undefined variable: id in /home/kamavvve/public_html/b2s/admin/pages/api/edit.php on line 33
+[15-Sep-2020 05:01:14 America/New_York] PHP Notice:  Undefined variable: id in /home/kamavvve/public_html/b2s/admin/pages/api/edit.php on line 33
+[15-Sep-2020 05:01:28 America/New_York] PHP Notice:  Undefined variable: id in /home/kamavvve/public_html/b2s/admin/pages/api/edit.php on line 33
+[15-Sep-2020 05:03:21 America/New_York] PHP Notice:  Undefined variable: id in /home/kamavvve/public_html/b2s/admin/pages/api/edit.php on line 33
+[15-Sep-2020 05:05:00 America/New_York] PHP Notice:  Undefined variable: id in /home/kamavvve/public_html/b2s/admin/pages/api/edit.php on line 33
+[15-Sep-2020 05:06:31 America/New_York] PHP Notice:  Undefined variable: id in /home/kamavvve/public_html/b2s/admin/pages/api/edit.php on line 33
+[15-Sep-2020 05:08:40 America/New_York] PHP Notice:  Undefined variable: id in /home/kamavvve/public_html/b2s/admin/pages/api/edit.php on line 33
+[15-Sep-2020 05:11:06 America/New_York] PHP Notice:  Undefined variable: id in /home/kamavvve/public_html/b2s/admin/pages/api/edit.php on line 33
+[15-Sep-2020 05:13:44 America/New_York] PHP Notice:  Undefined variable: id in /home/kamavvve/public_html/b2s/admin/pages/api/edit.php on line 33
+[15-Sep-2020 05:14:26 America/New_York] PHP Notice:  Undefined variable: id in /home/kamavvve/public_html/b2s/admin/pages/api/edit.php on line 33
+[28-Sep-2020 04:04:42 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/kamavvve/public_html/b2s/sub-admin/pages/api/adminlogin.php on line 12
+[28-Sep-2020 04:06:24 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/kamavvve/public_html/b2s/sub-admin/pages/api/adminlogin.php on line 12

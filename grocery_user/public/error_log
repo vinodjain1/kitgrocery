@@ -1,0 +1,1 @@
+[24-Dec-2020 10:00:54 UTC] PHP Fatal error:  Cannot use Auth as Auth because the name is already in use in /home/kitsosvw/public_html/grocery_user/app/Http/Controllers/OtpSupplierController.php on line 11

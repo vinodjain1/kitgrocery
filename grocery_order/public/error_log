@@ -1,0 +1,23 @@
+[18-Sep-2020 09:40:04 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\ProductController::index() in /home/kamavvve/public_html/grocery_product/app/Http/Controllers/Api/ProductController.php on line 41
+[18-Sep-2020 09:41:12 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\ProductController::index() in /home/kamavvve/public_html/grocery_product/app/Http/Controllers/Api/ProductController.php on line 42
+[06-Oct-2020 11:38:12 UTC] PHP Fatal error:  Cannot use [] for reading in /home/kamavvve/public_html/grocery_order/app/Http/Controllers/Api/OrderController.php on line 46
+[06-Oct-2020 11:46:59 UTC] PHP Fatal error:  Cannot use [] for reading in /home/kamavvve/public_html/grocery_order/app/Http/Controllers/Api/OrderController.php on line 19
+[23-Dec-2020 07:05:10 UTC] PHP Warning:  Uncaught ErrorException: Illegal string offset 'count' in /home/kitsosvw/public_html/grocery_order/app/Http/Controllers/Api/SupplierCompleteOrderController.php:64
+Stack trace:
+#0 /home/kitsosvw/public_html/grocery_order/app/Http/Controllers/Api/SupplierCompleteOrderController.php(64): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Illegal string ...', '/home/kitsosvw/...', 64, Array)
+#1 [internal function]: App\Http\Controllers\Api\SupplierCompleteOrderController->todaySale(Object(Laravel\Lumen\Http\Request))
+#2 /home/kitsosvw/public_html/grocery_order/vendor/illuminate/container/BoundMethod.php(32): call_user_func_array(Array, Array)
+#3 /home/kitsosvw/public_html/grocery_order/vendor/illuminate/container/BoundMethod.php(90): Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()
+#4 /home/kitsosvw/public_html/grocery_order/vendor/illuminate/container/BoundMethod.php(34): Illuminate\Container\BoundMethod::callBoundMethod(Object(Laravel\Lumen\Application), Array, Object(Closure))
+#5 in /home/kitsosvw/public_html/grocery_order/app/Http/Controllers/Api/SupplierCompleteOrderController.php on line 64
+[23-Dec-2020 07:05:10 UTC] PHP Fatal error:  Object of class Illuminate\Database\Eloquent\Builder could not be converted to string in /home/kitsosvw/public_html/grocery_order/app/Http/Controllers/Api/SupplierCompleteOrderController.php on line 64
+[23-Dec-2020 07:08:00 UTC] PHP Warning:  Uncaught ErrorException: Illegal string offset 'count' in /home/kitsosvw/public_html/grocery_order/app/Http/Controllers/Api/SupplierCompleteOrderController.php:65
+Stack trace:
+#0 /home/kitsosvw/public_html/grocery_order/app/Http/Controllers/Api/SupplierCompleteOrderController.php(65): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Illegal string ...', '/home/kitsosvw/...', 65, Array)
+#1 [internal function]: App\Http\Controllers\Api\SupplierCompleteOrderController->todaySale(Object(Laravel\Lumen\Http\Request))
+#2 /home/kitsosvw/public_html/grocery_order/vendor/illuminate/container/BoundMethod.php(32): call_user_func_array(Array, Array)
+#3 /home/kitsosvw/public_html/grocery_order/vendor/illuminate/container/BoundMethod.php(90): Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()
+#4 /home/kitsosvw/public_html/grocery_order/vendor/illuminate/container/BoundMethod.php(34): Illuminate\Container\BoundMethod::callBoundMethod(Object(Laravel\Lumen\Application), Array, Object(Closure))
+#5 in /home/kitsosvw/public_html/grocery_order/app/Http/Controllers/Api/SupplierCompleteOrderController.php on line 65
+[23-Dec-2020 07:08:00 UTC] PHP Fatal error:  Object of class Illuminate\Database\Eloquent\Builder could not be converted to string in /home/kitsosvw/public_html/grocery_order/app/Http/Controllers/Api/SupplierCompleteOrderController.php on line 65
+[23-Dec-2020 07:09:13 UTC] PHP Fatal error:  Method Illuminate\Database\Eloquent\Collection::__toString() must not throw an exception, caught ErrorException: Illegal string offset 'count' in /home/kitsosvw/public_html/grocery_order/app/Http/Controllers/Api/SupplierCompleteOrderController.php on line 0

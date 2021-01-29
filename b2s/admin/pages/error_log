@@ -1,0 +1,64 @@
+[02-Jun-2020 09:15:54 America/New_York] PHP Warning:  Use of undefined constant SESSION - assumed 'SESSION' (this will throw an Error in a future version of PHP) in /home/kamavvve/public_html/b2s/admin/pages/header.php on line 2
+[02-Jun-2020 09:15:54 America/New_York] PHP Warning:  Illegal string offset 'adminid' in /home/kamavvve/public_html/b2s/admin/pages/header.php on line 2
+[02-Jun-2020 09:20:38 America/New_York] PHP Warning:  Use of undefined constant SESSION - assumed 'SESSION' (this will throw an Error in a future version of PHP) in /home/kamavvve/public_html/b2s/admin/pages/header.php on line 2
+[02-Jun-2020 09:20:38 America/New_York] PHP Warning:  Illegal string offset 'adminid' in /home/kamavvve/public_html/b2s/admin/pages/header.php on line 2
+[04-Jun-2020 00:22:27 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kamavvve/public_html/b2s/admin/pages/index.php on line 15
+[04-Jun-2020 00:22:27 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kamavvve/public_html/b2s/admin/pages/index.php on line 29
+[30-Nov-2020 05:31:11 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'kitsosvw_kits'@'localhost' to database 'kamavvve_marketplace' in /home/kitsosvw/kamakhyaits.com/b2s/config.php on line 3
+[30-Nov-2020 05:31:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/kitsosvw/kamakhyaits.com/b2s/config.php:4
+Stack trace:
+#0 /home/kitsosvw/kamakhyaits.com/b2s/admin/pages/header.php(21): include()
+#1 /home/kitsosvw/kamakhyaits.com/b2s/admin/pages/index.php(1): include('/home/kitsosvw/...')
+#2 {main}
+  thrown in /home/kitsosvw/kamakhyaits.com/b2s/config.php on line 4
+[04-Jan-2021 08:33:03 America/New_York] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home/kitsosvw/public_html/b2s/admin/pages/header.php on line 21
+[04-Jan-2021 08:33:03 America/New_York] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home/kitsosvw/public_html/b2s/admin/pages/header.php on line 21
+[04-Jan-2021 08:33:03 America/New_York] PHP Warning:  include(): Failed opening '../../config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/kitsosvw/public_html/b2s/admin/pages/header.php on line 21
+[04-Jan-2021 08:33:03 America/New_York] PHP Notice:  Undefined variable: con in /home/kitsosvw/public_html/b2s/admin/pages/index.php on line 6
+[04-Jan-2021 08:33:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitsosvw/public_html/b2s/admin/pages/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/kitsosvw/public_html/b2s/admin/pages/index.php on line 6
+[04-Jan-2021 20:04:31 America/New_York] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home/kitsosvw/public_html/b2s/admin/pages/header.php on line 21
+[04-Jan-2021 20:04:31 America/New_York] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home/kitsosvw/public_html/b2s/admin/pages/header.php on line 21
+[04-Jan-2021 20:04:31 America/New_York] PHP Warning:  include(): Failed opening '../../config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/kitsosvw/public_html/b2s/admin/pages/header.php on line 21
+[04-Jan-2021 20:04:31 America/New_York] PHP Notice:  Undefined variable: con in /home/kitsosvw/public_html/b2s/admin/pages/index.php on line 6
+[04-Jan-2021 20:04:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitsosvw/public_html/b2s/admin/pages/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/kitsosvw/public_html/b2s/admin/pages/index.php on line 6
+[04-Jan-2021 20:24:11 America/New_York] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home/kitsosvw/public_html/b2s/admin/pages/header.php on line 21
+[04-Jan-2021 20:24:11 America/New_York] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home/kitsosvw/public_html/b2s/admin/pages/header.php on line 21
+[04-Jan-2021 20:24:11 America/New_York] PHP Warning:  include(): Failed opening '../../config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/kitsosvw/public_html/b2s/admin/pages/header.php on line 21
+[04-Jan-2021 20:24:11 America/New_York] PHP Notice:  Undefined variable: con in /home/kitsosvw/public_html/b2s/admin/pages/index.php on line 6
+[04-Jan-2021 20:24:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kitsosvw/public_html/b2s/admin/pages/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/kitsosvw/public_html/b2s/admin/pages/index.php on line 6
+[04-Jan-2021 21:06:30 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kamavvve_kamavvve'@'localhost' (using password: YES) in /home/kitsosvw/public_html/b2s/config.php on line 3
+[04-Jan-2021 21:06:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/kitsosvw/public_html/b2s/config.php:4
+Stack trace:
+#0 /home/kitsosvw/public_html/b2s/admin/pages/header.php(21): include()
+#1 /home/kitsosvw/public_html/b2s/admin/pages/index.php(1): include('/home/kitsosvw/...')
+#2 {main}
+  thrown in /home/kitsosvw/public_html/b2s/config.php on line 4
+[20-Jan-2021 03:14:37 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[20-Jan-2021 03:14:41 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[20-Jan-2021 03:24:55 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[20-Jan-2021 03:25:41 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[20-Jan-2021 04:51:45 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[20-Jan-2021 04:51:48 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[20-Jan-2021 04:51:53 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[20-Jan-2021 04:52:26 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[20-Jan-2021 06:26:00 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[28-Jan-2021 15:17:04 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[28-Jan-2021 15:17:07 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[28-Jan-2021 20:57:46 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[28-Jan-2021 20:58:01 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[28-Jan-2021 23:50:42 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[28-Jan-2021 23:58:14 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[28-Jan-2021 23:58:23 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[28-Jan-2021 23:58:27 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[28-Jan-2021 23:58:58 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[29-Jan-2021 01:13:26 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[29-Jan-2021 01:49:54 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21

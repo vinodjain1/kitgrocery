@@ -1,0 +1,18 @@
+[24-Sep-2020 02:43:49 America/New_York] PHP Notice:  Undefined index: email in /home/kamavvve/public_html/grocery_user/api/Driver/login.php on line 11
+[24-Sep-2020 02:43:49 America/New_York] PHP Notice:  Undefined index: email in /home/kamavvve/public_html/grocery_user/api/Driver/login.php on line 15
+[24-Sep-2020 02:43:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/kamavvve/public_html/grocery_user/api/objects/user.php:31
+Stack trace:
+#0 /home/kamavvve/public_html/grocery_user/api/Driver/login.php(23): User->login()
+#1 {main}
+  thrown in /home/kamavvve/public_html/grocery_user/api/objects/user.php on line 31
+[24-Sep-2020 02:45:57 America/New_York] PHP Notice:  Undefined index: email in /home/kamavvve/public_html/grocery_user/api/Driver/login.php on line 11
+[24-Sep-2020 02:45:57 America/New_York] PHP Notice:  Undefined index: email in /home/kamavvve/public_html/grocery_user/api/Driver/login.php on line 15
+[24-Sep-2020 02:47:09 America/New_York] PHP Notice:  Undefined index: email in /home/kamavvve/public_html/grocery_user/api/Driver/login.php on line 11
+[24-Sep-2020 02:47:09 America/New_York] PHP Notice:  Undefined index: email in /home/kamavvve/public_html/grocery_user/api/Driver/login.php on line 15
+[02-Dec-2020 10:09:35 America/New_York] PHP Notice:  Undefined index: email in /home/kitsosvw/kamakhyaits.com/grocery_user/api/Driver/login.php on line 11
+[02-Dec-2020 10:09:35 America/New_York] PHP Notice:  Undefined index: email in /home/kitsosvw/kamakhyaits.com/grocery_user/api/Driver/login.php on line 15
+[02-Dec-2020 10:09:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/kitsosvw/kamakhyaits.com/grocery_user/api/objects/user.php:31
+Stack trace:
+#0 /home/kitsosvw/kamakhyaits.com/grocery_user/api/Driver/login.php(23): User->login()
+#1 {main}
+  thrown in /home/kitsosvw/kamakhyaits.com/grocery_user/api/objects/user.php on line 31

@@ -1,0 +1,3 @@
+[05-Jun-2020 05:42:52 America/New_York] PHP Notice:  Undefined index: status in /home/kamavvve/public_html/b2s/admin/payment-manager/api/paymentstatus.php on line 5
+[22-Sep-2020 06:17:54 America/New_York] PHP Notice:  Undefined index: vender_id in /home/kamavvve/public_html/b2s/admin/all-payment/api/paymentstatus.php on line 4
+[22-Sep-2020 06:18:06 America/New_York] PHP Notice:  Undefined index: vender_id in /home/kamavvve/public_html/b2s/admin/all-payment/api/paymentstatus.php on line 4

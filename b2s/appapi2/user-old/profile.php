@@ -1,0 +1,24 @@
+<?php
+
+include '../../config.php';
+
+
+$userid=$_GET['userid'];
+
+$resultdata =$con->query("select * from `users` where `id` = '$userid'" );
+ 
+$result=array();
+while($row=mysqli_fetch_array($resultdata))
+{
+$result[]=$row;
+}
+if(count($result) > 0)
+{
+    echo json_encode(array("status"=>'101',"message"=>'data found',"data"=>$result));
+}
+else
+{
+    echo json_encode(array("status"=>'404',"message"=>'data not found',"data"=>$result));
+}
+
+?>

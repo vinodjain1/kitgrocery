@@ -1,0 +1,526 @@
+[18-Jan-2021 06:54:02 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 41
+[18-Jan-2021 06:58:18 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 06:58:18 America/New_York] PHP Notice:  Undefined index: coupon_code in /home/kitsosvw/public_html/b2s/appapi/user/apply-coupon.php on line 5
+[18-Jan-2021 06:58:18 America/New_York] PHP Notice:  Undefined index: city_id in /home/kitsosvw/public_html/b2s/appapi/user/apply-coupon.php on line 6
+[18-Jan-2021 06:58:18 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kitsosvw/public_html/b2s/appapi/user/apply-coupon.php on line 13
+[18-Jan-2021 06:58:29 America/New_York] PHP Notice:  Undefined index: coupon_code in /home/kitsosvw/public_html/b2s/appapi/user/apply-coupon.php on line 5
+[18-Jan-2021 06:58:29 America/New_York] PHP Notice:  Undefined index: city_id in /home/kitsosvw/public_html/b2s/appapi/user/apply-coupon.php on line 6
+[18-Jan-2021 06:58:29 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kitsosvw/public_html/b2s/appapi/user/apply-coupon.php on line 13
+[18-Jan-2021 07:00:41 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:00:43 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:00:43 America/New_York] PHP Notice:  Undefined variable: brand_name in /home/kitsosvw/public_html/b2s/appapi/user/cart-list.php on line 59
+[18-Jan-2021 07:00:44 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:00:44 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:00:44 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[18-Jan-2021 07:00:44 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:00:45 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:00:45 America/New_York] PHP Notice:  Undefined variable: brand_name in /home/kitsosvw/public_html/b2s/appapi/user/cart-list.php on line 59
+[18-Jan-2021 07:00:46 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:00:53 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:00:53 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/delete-cart.php on line 12
+[18-Jan-2021 07:00:54 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:00:54 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:00:54 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:02:37 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:06:02 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:06:02 America/New_York] PHP Notice:  Undefined index: email in /home/kitsosvw/public_html/b2s/appapi/user/forget_password.php on line 3
+[18-Jan-2021 07:06:02 America/New_York] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/kitsosvw/public_html/b2s/appapi/user/forget_password.php on line 9
+[18-Jan-2021 07:06:02 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/forget_password.php on line 36
+[18-Jan-2021 07:07:07 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:07:07 America/New_York] PHP Notice:  Undefined index: email in /home/kitsosvw/public_html/b2s/appapi/user/forget_password.php on line 3
+[18-Jan-2021 07:07:07 America/New_York] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/kitsosvw/public_html/b2s/appapi/user/forget_password.php on line 9
+[18-Jan-2021 07:07:07 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/forget_password.php on line 36
+[18-Jan-2021 07:07:19 America/New_York] PHP Notice:  Undefined index: email in /home/kitsosvw/public_html/b2s/appapi/user/forget_password.php on line 3
+[18-Jan-2021 07:07:19 America/New_York] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/kitsosvw/public_html/b2s/appapi/user/forget_password.php on line 9
+[18-Jan-2021 07:07:19 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/forget_password.php on line 36
+[18-Jan-2021 07:07:22 America/New_York] PHP Notice:  Undefined index: email in /home/kitsosvw/public_html/b2s/appapi/user/forget_password.php on line 3
+[18-Jan-2021 07:07:22 America/New_York] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/kitsosvw/public_html/b2s/appapi/user/forget_password.php on line 9
+[18-Jan-2021 07:07:22 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/forget_password.php on line 36
+[18-Jan-2021 07:07:39 America/New_York] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/kitsosvw/public_html/b2s/appapi/user/forget_password.php on line 9
+[18-Jan-2021 07:07:39 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/forget_password.php on line 36
+[18-Jan-2021 07:07:48 America/New_York] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/kitsosvw/public_html/b2s/appapi/user/forget_password.php on line 9
+[18-Jan-2021 07:07:48 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/forget_password.php on line 36
+[18-Jan-2021 07:10:27 America/New_York] PHP Notice:  Undefined index: user_id in /home/kitsosvw/public_html/b2s/appapi/user/notification-list.php on line 4
+[18-Jan-2021 07:11:43 America/New_York] PHP Notice:  Undefined index: user_id in /home/kitsosvw/public_html/b2s/appapi/user/notification-list.php on line 4
+[18-Jan-2021 07:12:17 America/New_York] PHP Notice:  Undefined index: user_id in /home/kitsosvw/public_html/b2s/appapi/user/notification-list.php on line 4
+[18-Jan-2021 07:12:30 America/New_York] PHP Notice:  Undefined index: user_id in /home/kitsosvw/public_html/b2s/appapi/user/notification-list.php on line 4
+[18-Jan-2021 07:12:40 America/New_York] PHP Notice:  Undefined index: user_id in /home/kitsosvw/public_html/b2s/appapi/user/notification-list.php on line 4
+[18-Jan-2021 07:12:59 America/New_York] PHP Notice:  Undefined index: user_id in /home/kitsosvw/public_html/b2s/appapi/user/notification-list.php on line 4
+[18-Jan-2021 07:13:05 America/New_York] PHP Notice:  Undefined index: user_id in /home/kitsosvw/public_html/b2s/appapi/user/notification-list.php on line 4
+[18-Jan-2021 07:13:11 America/New_York] PHP Notice:  Undefined index: user_id in /home/kitsosvw/public_html/b2s/appapi/user/notification-list.php on line 4
+[18-Jan-2021 07:13:20 America/New_York] PHP Notice:  Undefined index: user_id in /home/kitsosvw/public_html/b2s/appapi/user/notification-list.php on line 4
+[18-Jan-2021 07:13:32 America/New_York] PHP Notice:  Undefined index: user_id in /home/kitsosvw/public_html/b2s/appapi/user/notification-list.php on line 4
+[18-Jan-2021 07:30:14 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:30:14 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:30:14 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:30:14 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:30:14 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[18-Jan-2021 07:54:35 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:54:35 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:54:35 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:54:35 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:54:35 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:54:35 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[18-Jan-2021 07:54:38 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:54:38 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:54:41 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:54:42 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:54:42 America/New_York] PHP Notice:  Undefined index: sex in /home/kitsosvw/public_html/b2s/appapi/user/update-profile.php on line 10
+[18-Jan-2021 07:54:42 America/New_York] PHP Notice:  Undefined index: address in /home/kitsosvw/public_html/b2s/appapi/user/update-profile.php on line 11
+[18-Jan-2021 07:54:42 America/New_York] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/kitsosvw/public_html/b2s/appapi/user/update-profile.php on line 25
+[18-Jan-2021 07:54:43 America/New_York] PHP Notice:  Undefined index: lang in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 07:57:31 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[18-Jan-2021 08:16:42 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 00:41:25 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 00:41:54 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 00:42:19 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 02:03:16 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 02:49:19 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 02:49:19 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/login.php on line 49
+[19-Jan-2021 02:49:20 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 02:49:26 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 02:49:26 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 02:49:30 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 02:49:33 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 02:49:33 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 41
+[19-Jan-2021 02:49:36 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 02:49:46 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 02:49:49 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 02:49:55 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 02:49:59 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 02:50:00 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 02:50:00 America/New_York] PHP Notice:  Undefined variable: latitude in /home/kitsosvw/public_html/b2s/appapi/user/create-order.php on line 82
+[19-Jan-2021 02:50:00 America/New_York] PHP Notice:  Undefined variable: longitude in /home/kitsosvw/public_html/b2s/appapi/user/create-order.php on line 82
+[19-Jan-2021 02:50:00 America/New_York] PHP Notice:  Undefined variable: latitude in /home/kitsosvw/public_html/b2s/appapi/user/create-order.php on line 82
+[19-Jan-2021 02:50:00 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kitsosvw/public_html/b2s/appapi/user/create-order.php on line 84
+[19-Jan-2021 02:50:00 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/create-order.php on line 144
+[19-Jan-2021 02:50:00 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:06 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:21 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 02:50:21 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:25 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:26 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[19-Jan-2021 02:50:39 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 02:50:45 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 02:50:45 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 02:50:46 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 02:50:46 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 02:50:52 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 02:50:58 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 02:50:58 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 02:50:58 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 02:50:59 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 02:51:24 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 02:51:24 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 02:51:25 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 02:51:25 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 02:51:32 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 02:52:51 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 02:54:16 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 02:54:46 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 02:54:50 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 02:54:51 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 02:55:29 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 02:55:32 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 02:55:47 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 02:55:58 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 02:55:58 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 41
+[19-Jan-2021 02:58:21 America/New_York] PHP Notice:  Undefined index: userid in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 5
+[19-Jan-2021 02:58:21 America/New_York] PHP Notice:  Undefined index: productid in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 6
+[19-Jan-2021 02:58:21 America/New_York] PHP Notice:  Undefined index: quantity in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 7
+[19-Jan-2021 02:58:21 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 41
+[19-Jan-2021 02:58:48 America/New_York] PHP Notice:  Undefined index: userid in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 5
+[19-Jan-2021 02:58:48 America/New_York] PHP Notice:  Undefined index: productid in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 6
+[19-Jan-2021 02:58:48 America/New_York] PHP Notice:  Undefined index: quantity in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 7
+[19-Jan-2021 02:58:48 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 41
+[19-Jan-2021 03:59:22 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 03:59:31 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 03:59:35 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 06:03:21 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 06:03:21 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/login.php on line 49
+[19-Jan-2021 06:03:23 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 06:03:26 America/New_York] PHP Notice:  Undefined index: language in /home/kitsosvw/public_html/b2s/config.php on line 14
+[19-Jan-2021 11:06:37 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 11:06:40 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:06:40 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 41
+[19-Jan-2021 11:06:43 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:06:56 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:06:57 America/New_York] PHP Notice:  Undefined property: stdClass::$language in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:06:57 America/New_York] PHP Notice:  Undefined variable: latitude in /home/kitsosvw/public_html/b2s/appapi/user/create-order.php on line 82
+[19-Jan-2021 11:06:57 America/New_York] PHP Notice:  Undefined variable: longitude in /home/kitsosvw/public_html/b2s/appapi/user/create-order.php on line 82
+[19-Jan-2021 11:06:57 America/New_York] PHP Notice:  Undefined variable: latitude in /home/kitsosvw/public_html/b2s/appapi/user/create-order.php on line 82
+[19-Jan-2021 11:06:57 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kitsosvw/public_html/b2s/appapi/user/create-order.php on line 84
+[19-Jan-2021 11:06:57 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:06:57 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/create-order.php on line 144
+[19-Jan-2021 11:07:06 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 11:07:12 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:07:12 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 41
+[19-Jan-2021 11:07:15 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:07:56 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:07:56 America/New_York] PHP Notice:  Undefined property: stdClass::$language in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:07:56 America/New_York] PHP Notice:  Undefined variable: latitude in /home/kitsosvw/public_html/b2s/appapi/user/create-order.php on line 82
+[19-Jan-2021 11:07:56 America/New_York] PHP Notice:  Undefined variable: longitude in /home/kitsosvw/public_html/b2s/appapi/user/create-order.php on line 82
+[19-Jan-2021 11:07:56 America/New_York] PHP Notice:  Undefined variable: latitude in /home/kitsosvw/public_html/b2s/appapi/user/create-order.php on line 82
+[19-Jan-2021 11:07:56 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kitsosvw/public_html/b2s/appapi/user/create-order.php on line 84
+[19-Jan-2021 11:07:57 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/create-order.php on line 144
+[19-Jan-2021 11:07:57 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:09:50 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 11:09:54 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:10:04 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:26:08 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 11:26:19 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:26:19 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 41
+[19-Jan-2021 11:26:20 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:26:20 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 24
+[19-Jan-2021 11:26:23 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:26:33 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:26:35 America/New_York] PHP Notice:  Undefined property: stdClass::$language in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:26:35 America/New_York] PHP Notice:  Undefined variable: latitude in /home/kitsosvw/public_html/b2s/appapi/user/create-order.php on line 82
+[19-Jan-2021 11:26:35 America/New_York] PHP Notice:  Undefined variable: longitude in /home/kitsosvw/public_html/b2s/appapi/user/create-order.php on line 82
+[19-Jan-2021 11:26:35 America/New_York] PHP Notice:  Undefined variable: latitude in /home/kitsosvw/public_html/b2s/appapi/user/create-order.php on line 82
+[19-Jan-2021 11:26:35 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kitsosvw/public_html/b2s/appapi/user/create-order.php on line 84
+[19-Jan-2021 11:26:35 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:26:35 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/create-order.php on line 144
+[19-Jan-2021 11:26:41 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 11:26:51 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 11:26:56 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 11:27:12 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 11:27:42 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:27:42 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/login.php on line 49
+[19-Jan-2021 11:27:43 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 11:28:01 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:28:01 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 41
+[19-Jan-2021 11:28:04 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:28:04 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 24
+[19-Jan-2021 11:28:09 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:29:20 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:29:27 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:29:27 America/New_York] PHP Notice:  Undefined property: stdClass::$language in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:29:27 America/New_York] PHP Notice:  Undefined variable: latitude in /home/kitsosvw/public_html/b2s/appapi/user/create-order.php on line 82
+[19-Jan-2021 11:29:27 America/New_York] PHP Notice:  Undefined variable: longitude in /home/kitsosvw/public_html/b2s/appapi/user/create-order.php on line 82
+[19-Jan-2021 11:29:27 America/New_York] PHP Notice:  Undefined variable: latitude in /home/kitsosvw/public_html/b2s/appapi/user/create-order.php on line 82
+[19-Jan-2021 11:29:27 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kitsosvw/public_html/b2s/appapi/user/create-order.php on line 84
+[19-Jan-2021 11:29:27 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/create-order.php on line 144
+[19-Jan-2021 11:29:27 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:29:38 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[19-Jan-2021 11:29:43 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:29:43 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 41
+[19-Jan-2021 11:29:46 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 20
+[19-Jan-2021 11:29:46 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 41
+[20-Jan-2021 03:27:15 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 00:23:01 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 00:29:30 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 00:31:02 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 00:31:15 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 00:31:57 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 00:34:08 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 00:35:11 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[25-Jan-2021 00:35:13 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 00:35:16 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[25-Jan-2021 00:35:16 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 41
+[25-Jan-2021 00:35:18 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[25-Jan-2021 00:35:49 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[25-Jan-2021 00:35:49 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[25-Jan-2021 00:38:19 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[25-Jan-2021 00:38:19 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:38:19 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:38:19 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:38:19 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:38:19 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:38:19 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:38:19 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:38:19 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[25-Jan-2021 00:38:19 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:38:19 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:38:19 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:38:19 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:38:19 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:38:19 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:38:19 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:38:30 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[25-Jan-2021 00:38:30 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:38:30 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:38:30 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:38:30 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:38:30 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:38:30 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:38:30 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:40:35 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[25-Jan-2021 00:40:35 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:40:35 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:40:35 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:40:35 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:40:35 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:40:35 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:40:35 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:40:41 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[25-Jan-2021 00:40:41 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:40:41 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:40:41 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:40:41 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:40:41 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:40:41 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:40:41 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:40:44 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[25-Jan-2021 00:40:44 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:40:44 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:40:44 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:40:44 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:40:44 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:40:44 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:40:44 America/New_York] PHP Notice:  Undefined index: distance in /home/kitsosvw/public_html/b2s/appapi/user/order-list.php on line 46
+[25-Jan-2021 00:42:56 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[25-Jan-2021 00:54:53 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 00:58:00 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 00:58:10 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 00:58:17 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 00:58:21 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 00:58:22 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[25-Jan-2021 00:58:22 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[25-Jan-2021 00:58:31 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 00:58:33 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 00:58:33 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[25-Jan-2021 00:58:33 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 00:58:42 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 00:58:46 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[25-Jan-2021 00:58:54 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 01:31:51 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 01:31:58 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 01:32:07 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 01:32:12 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kitsosvw/public_html/b2s/appapi/user/find-vender.php on line 19
+[25-Jan-2021 01:32:15 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kitsosvw/public_html/b2s/appapi/user/find-vender.php on line 19
+[25-Jan-2021 01:32:17 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kitsosvw/public_html/b2s/appapi/user/find-vender.php on line 19
+[25-Jan-2021 01:32:22 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 01:32:32 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 01:32:38 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kitsosvw/public_html/b2s/appapi/user/find-vender.php on line 19
+[25-Jan-2021 01:32:41 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 04:04:15 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 04:05:03 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 04:06:45 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 04:07:15 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 04:10:17 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/login.php on line 49
+[25-Jan-2021 04:10:18 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 04:10:23 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 41
+[25-Jan-2021 04:10:26 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 24
+[25-Jan-2021 04:10:30 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 41
+[25-Jan-2021 04:10:31 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 24
+[25-Jan-2021 04:10:36 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 24
+[25-Jan-2021 04:10:40 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 24
+[25-Jan-2021 04:14:40 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 24
+[25-Jan-2021 04:14:45 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 24
+[25-Jan-2021 04:14:50 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 41
+[25-Jan-2021 04:14:50 America/New_York] PHP Notice:  Undefined variable: brand_name in /home/kitsosvw/public_html/b2s/appapi/user/cart-list.php on line 37
+[25-Jan-2021 04:14:52 America/New_York] PHP Warning:  Creating default object from empty value in /home/kitsosvw/public_html/b2s/appapi/user/add-cart.php on line 41
+[25-Jan-2021 04:15:15 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kitsosvw/public_html/b2s/appapi/user/find-vender.php on line 19
+[25-Jan-2021 04:15:22 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kitsosvw/public_html/b2s/appapi/user/find-vender.php on line 19
+[25-Jan-2021 04:15:54 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kitsosvw/public_html/b2s/appapi/user/find-vender.php on line 19
+[25-Jan-2021 04:15:59 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kitsosvw/public_html/b2s/appapi/user/find-vender.php on line 19
+[25-Jan-2021 04:16:17 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kitsosvw/public_html/b2s/appapi/user/find-vender.php on line 19
+[25-Jan-2021 04:16:37 America/New_York] PHP Notice:  Undefined index: image in /home/kitsosvw/public_html/b2s/appapi/user/search-product.php on line 31
+[25-Jan-2021 04:34:29 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21
+[25-Jan-2021 04:35:56 America/New_York] PHP Notice:  Trying to get property 'language' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 21

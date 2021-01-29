@@ -1,0 +1,40 @@
+<?php
+include '../../config.php';
+
+$language=$_GET['language'];
+$sub_category_id=$_GET['sub_category_id'];
+$resultdata =$con->query("select * from `tbl_sub_sub_category` where sub_category_id='$sub_category_id'" );
+
+$result=array();
+
+while($row=mysqli_fetch_array($resultdata))
+{
+    if($language == 'ar')
+    {
+        array_push($result,
+        array(
+        'id'=>$row['id'],
+        'image'=>$row['image'],
+        'name'=>$row['name_ar']
+        ));
+    }
+    else if($language == 'en')
+    {
+        array_push($result,
+        array(
+            'id'=>$row['id'],
+            'image'=>$row['image'],
+            'name'=>$row['name_en']
+        ));
+    }
+}
+if(count($result) > 0)
+{
+    echo json_encode(array("status"=>'101',"message"=>'data found',"data"=>$result));
+}
+else
+{
+    $msg = $langs == 'en' ? 'data not found' : 'لاتوجد بيانات';
+    echo json_encode(array("status"=>'404',"message"=> $msg, "data"=>$result));
+}
+?>

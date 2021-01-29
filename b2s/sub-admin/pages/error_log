@@ -1,0 +1,6 @@
+[02-Jun-2020 09:15:54 America/New_York] PHP Warning:  Use of undefined constant SESSION - assumed 'SESSION' (this will throw an Error in a future version of PHP) in /home/kamavvve/public_html/b2s/admin/pages/header.php on line 2
+[02-Jun-2020 09:15:54 America/New_York] PHP Warning:  Illegal string offset 'adminid' in /home/kamavvve/public_html/b2s/admin/pages/header.php on line 2
+[02-Jun-2020 09:20:38 America/New_York] PHP Warning:  Use of undefined constant SESSION - assumed 'SESSION' (this will throw an Error in a future version of PHP) in /home/kamavvve/public_html/b2s/admin/pages/header.php on line 2
+[02-Jun-2020 09:20:38 America/New_York] PHP Warning:  Illegal string offset 'adminid' in /home/kamavvve/public_html/b2s/admin/pages/header.php on line 2
+[04-Jun-2020 00:22:27 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kamavvve/public_html/b2s/admin/pages/index.php on line 15
+[04-Jun-2020 00:22:27 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/kamavvve/public_html/b2s/admin/pages/index.php on line 29

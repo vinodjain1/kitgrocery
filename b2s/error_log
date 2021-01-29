@@ -1,0 +1,49 @@
+[27-May-2020 00:46:01 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'kamavvve_kamavvve'@'localhost' to database 'kamavvve_marketplace' in /home/kamavvve/public_html/b2s/config.php on line 3
+[27-May-2020 00:46:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/kamavvve/public_html/b2s/config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/kamavvve/public_html/b2s/config.php on line 4
+[27-May-2020 00:46:26 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'kamavvve_kamavvve'@'localhost' to database 'kamavvve_marketplace' in /home/kamavvve/public_html/b2s/config.php on line 3
+[27-May-2020 00:46:26 America/New_York] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/kamavvve/public_html/b2s/config.php on line 9
+[27-May-2020 00:46:48 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'kamavvve_kamavvve'@'localhost' to database 'kamavvve_marketplace' in /home/kamavvve/public_html/b2s/config.php on line 3
+[27-May-2020 00:46:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/kamavvve/public_html/b2s/config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/kamavvve/public_html/b2s/config.php on line 4
+[27-May-2020 00:46:51 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'kamavvve_kamavvve'@'localhost' to database 'kamavvve_marketplace' in /home/kamavvve/public_html/b2s/config.php on line 3
+[27-May-2020 00:46:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/kamavvve/public_html/b2s/config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/kamavvve/public_html/b2s/config.php on line 4
+[27-May-2020 00:46:53 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'kamavvve_kamavvve'@'localhost' to database 'kamavvve_marketplace' in /home/kamavvve/public_html/b2s/config.php on line 3
+[27-May-2020 00:46:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/kamavvve/public_html/b2s/config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/kamavvve/public_html/b2s/config.php on line 4
+[27-May-2020 00:47:08 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'kamavvve_kamavvve'@'localhost' to database 'kamavvve_marketplace' in /home/kamavvve/public_html/b2s/config.php on line 3
+[27-May-2020 00:47:08 America/New_York] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/kamavvve/public_html/b2s/config.php on line 9
+[27-May-2020 00:56:39 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'kamavvve_kamavvve'@'localhost' to database 'kamavvve_marketplace' in /home/kamavvve/public_html/b2s/config.php on line 3
+[27-May-2020 00:56:39 America/New_York] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/kamavvve/public_html/b2s/config.php on line 9
+[27-May-2020 00:58:22 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'kamavvve_kamavvve'@'localhost' to database 'kamavvve_marketplace1' in /home/kamavvve/public_html/b2s/config.php on line 3
+[27-May-2020 00:58:22 America/New_York] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/kamavvve/public_html/b2s/config.php on line 9
+[27-May-2020 01:07:55 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'kamavvve_admin'@'localhost' to database 'kamavvve_marketplace1' in /home/kamavvve/public_html/b2s/config.php on line 3
+[27-May-2020 01:07:55 America/New_York] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/kamavvve/public_html/b2s/config.php on line 9
+[04-Jan-2021 08:31:38 America/New_York] PHP Notice:  Undefined index: path in /home/kitsosvw/public_html/b2s/cdn.php on line 2
+[04-Jan-2021 21:06:48 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kamavvve_kamavvve'@'localhost' (using password: YES) in /home/kitsosvw/public_html/b2s/config.php on line 3
+[04-Jan-2021 21:06:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/kitsosvw/public_html/b2s/config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/kitsosvw/public_html/b2s/config.php on line 4
+[04-Jan-2021 21:07:15 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kamavvve_kamavvve'@'localhost' (using password: YES) in /home/kitsosvw/public_html/b2s/config.php on line 3
+[04-Jan-2021 21:07:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/kitsosvw/public_html/b2s/config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/kitsosvw/public_html/b2s/config.php on line 4
+[04-Jan-2021 21:07:43 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kamavvve_kamavvve'@'localhost' (using password: YES) in /home/kitsosvw/public_html/b2s/config.php on line 3
+[04-Jan-2021 21:07:43 America/New_York] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/kitsosvw/public_html/b2s/config.php on line 9
+[04-Jan-2021 21:08:30 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kamavvve_kamavvve'@'localhost' (using password: YES) in /home/kitsosvw/public_html/b2s/config.php on line 3
+[04-Jan-2021 21:08:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/kitsosvw/public_html/b2s/config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/kitsosvw/public_html/b2s/config.php on line 4
+[04-Jan-2021 21:08:48 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kamavvve_kamavvve'@'localhost' (using password: YES) in /home/kitsosvw/public_html/b2s/config.php on line 3
